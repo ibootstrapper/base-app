@@ -1,3 +1,8 @@
+## Shout to @iamshaunjp aka "The Net Ninja" https://www.youtube.com/TheNetNinja
+
+I've refactored the original tailwindcss app to be built with react, next.js and tailwindcss. 
+The original work can be found at https://github.com/iamshaunjp/tailwind-tutorial
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
