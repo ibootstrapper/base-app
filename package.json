@@ -1,5 +1,5 @@
 {
-  "name": "genzee",
+  "name": "base-app",
   "private": true,
   "scripts": {
     "dev": "next dev",

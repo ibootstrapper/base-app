@@ -3,11 +3,7 @@ import React from "react";
 export default function Card(card: any) {
   return (
     <div key={card.id} className="card hover:shadow-lg">
-      <img
-        src={card.img}
-        alt="stew"
-        className="h-32 sm:h-48 w-full object-cover"
-      />
+      <img src={card.img} alt="stew" className="w-full aspect-auto" />
       <div className="m-4">
         <span className="font-bold">{card.name}</span>
         <span className="block text-gray-500 text-sm">{card.by}</span>
